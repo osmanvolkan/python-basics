@@ -516,7 +516,7 @@ path = Path("ecommerce")
 print(path.exists)
 print(path.glob("*.*"))
 print(path.glob("*.py"))
-for file in path.glob(*.py)
-print(file)
+for file in path.glob("*.py"):
+        print(file)
 print(path.mkdir())
-print(path.rmdir())gi
+print(path.rmdir())
